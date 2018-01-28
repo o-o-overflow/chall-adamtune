@@ -1,0 +1,12 @@
+id: "adamtune" # this needs to be a single word, no spaces
+title: "adamtune" # this is the title that will show up on the scoreboard
+description: "adamd has kept his secrets locked up tight .... UNTIL NOW!\nPretend to be him and steal his wisdom here: 73dde216.quals2018.oooverflow.io:31337\n\nAdam Doupé, the famous cybersecurity professor and hacker, would like you to know that he is not responsible for the creation of this challenge, and that this is all Zardus' fault.\n\nThis service is heavily resource-constrained in a way that is impossible to scale. After solving a hard POW, you will be placed in a queue. To reduce frustration with the more routine aspects of interacting with the service, we have provided a queue-less (and flag-less) practice target: 17470319.quals2018.oooverflow.io:31337"
+# list of files that should be public (these will be made available via the scoreboard)
+public_files: [
+]
+tags: ["misc", "ml"] # list of tags
+author: "zardus"
+stateful: false # true|false two consecutive connections go to the same VM
+to_deploy: true # true|fale this chall needs a VM to be deployed
+is_ready: true # true|false this chall is ready for prime time
+

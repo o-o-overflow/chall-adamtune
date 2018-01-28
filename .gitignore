@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+videos/*
+audios/*
+transcripts/*
+adam/*
+submissions/*
